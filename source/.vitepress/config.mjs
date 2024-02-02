@@ -48,7 +48,7 @@ export default defineConfig({
     title: "Lesli Documentation",
     description: "Ruby on Rails SaaS Development Framework.",
     base: "/",
-    outDir: "build",
+    outDir: ".vitepress/dist",
     vite: { plugins: [svgLoader()] },
     head: [
         ["link", { rel: "icon", href: "/favicon.png" }],

@@ -4,6 +4,6 @@
 .sass-cache
 .idea
 Gemfile.lock
-zdocs/.vitepress/cache/
 node_modules/
-build/
+source/.vitepress/cache/
+source/.vitepress/dist/

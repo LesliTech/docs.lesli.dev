@@ -6,4 +6,4 @@
 Gemfile.lock
 node_modules/
 source/.vitepress/cache/
-source/.vitepress/dist/
+build/

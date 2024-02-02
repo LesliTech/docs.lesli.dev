@@ -1,0 +1,50 @@
+{
+    "title": "We have a module for that",
+    "text": "Lesli provides carefully designed and developed modules ready to integrate, extend or start working with your daily work",
+    "collection": [{
+        "name": "Administration",
+        "code": "administration",
+        "desc": "Manage all your administrative actions from a central location. Search for employees, payroll records, and documents.",
+        "engines": [{
+            "name": "Team",
+            "text": "Human Resources Management",
+            "desc": "Description about the module should be here",
+            "feat": ["Easy access to employee information", "Keep track of your vacation", "Requests and grants extraordinary exit permits"]
+        }]
+    }, {
+        "name": "Sales & Marketing",
+        "code": "sales-marketing",
+        "desc": "Connect with customers using the right message, at the right time through the right channel using intelligent sales and marketing automation tools.",
+        "engines": [{
+            "name": "Proposal",
+            "text": "Proposal and quotation management",
+            "desc": "Description about the module should be here",
+            "feat": ["Easy creation of quotations for your clients", "History of the customer's quotations"]
+        }]
+    }, {
+        "name": "Productivity",
+        "code": "productivity",
+        "desc": "Plan your project activities, assign work, manage resources and collaborate with your team better to get things done on time.",
+        "engines": [{
+            "name": "Driver",
+            "text": "Unified calendar app",
+            "desc": "Description about the module should be here",
+            "feat": ["Never forget an important event again", "Syncronization with external calendars", "Private and shared calendars", "Matching available time for meeting"]
+        },{
+            "name": "Focus",
+            "text": "Task management",
+            "desc": "Description about the module should be here",
+            "feat": ["Never forget your to dos again", "Keep track of the status of your tasks"]
+        },{
+            "name": "Bell",
+            "text": "Notification system",
+            "desc": "Description about the module should be here",
+            "feat": ["Stay alert and never miss what is happening in the company", "Create announcements for users", "Send web, mobile, email notifications and more!"]
+        },{
+            "name": "Talk",
+            "text": "Team communication",
+            "desc": "Description about the module should be here",
+            "feat": ["Do not lose contact", "Maintain more active conversations", "Keep the conversation wherever you go"]
+        }]
+    }]
+}

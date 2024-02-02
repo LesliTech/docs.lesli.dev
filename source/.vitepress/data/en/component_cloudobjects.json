@@ -1,0 +1,36 @@
+{
+    "title": "And much more...",
+    "content": [{
+        "icon": "ri-history-line",
+        "name": "Activities",
+        "text": "Keep updated on all activities and updates across all the objects in Lesli, all through an organized and easy to use view."
+    }, {
+        "icon": "ri-discuss-line",
+        "name": "Discussions",
+        "text": "Communicate with comments to share ideas, inputs or feedback in a conversation thread focusing on a particular project, task, event or any discussion topic."
+    }, {
+        "icon": "ri-rss-fill",
+        "name": "Subscriptions",
+        "text": "Get updates of all the activity that happens over the objects that are important for you through real-time in-app, desktop, email, and mobile notifications."
+    }, {
+        "icon": "ri-database-2-line",
+        "name": "Custom fields",
+        "text": "Custom fields enable to configure Lesli exactly to your needs, You can create additional fields for different sections and components like projects, tasks, events, contacts and so on."
+    }, {
+        "icon": "ri-flow-chart",
+        "name": "Workflows",
+        "text": "A workflow is defined as a task executed between status transitions, example: workflows allows you to defined tasks like notifications, document generation, send emails automatically when status of a project change."
+    }, {
+        "icon": "ri-send-plane-line",
+        "name": "Actions",
+        "text": "Discover powerful custom actions to standardize your workflows, avoid errors and reduce manual work."
+    }, {
+        "icon": "ri-file-cloud-line",
+        "name": "Files",
+        "text": "Easily upload documents to share with your team at one central place to keep them organized and find them quickly whenever required."
+    }, {
+        "icon": "ri-dashboard-3-line",
+        "name": "Dashboards",
+        "text": "Dashboard is a useful tool where you can display important information of your company, for example the latest news, tasks assigned to you or reported timesheets."
+    }]
+}

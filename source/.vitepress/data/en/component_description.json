@@ -1,0 +1,36 @@
+{
+    "description": "<b>Lesli</b> was designed to create highly customizable, scalable and secure software products.",
+    "link": "Scale your business, <i>with Us</i> and Our tools",
+    "components": [{
+        "icon": "ri-database-line",
+        "name": "Database",
+        "text": "Scalable, extensible and easy to use PostgreSQL database",
+        "items": [
+            "Relational design", 
+            "Versionable database",
+            "Easy to scale",
+            "Maintenable"
+        ]
+    },{
+        "icon": "ri-server-line",
+        "name": "Backend",
+        "text": "Built-on top of Ruby and Ruby on Rails",
+        "items": [
+            "Fully extendable",
+            "Modular architecture",
+            "Roles & privileges ready",
+            "Activity tracking systems"
+        ]
+    },{
+        "icon": "ri-window-line",
+        "name": "Frontend",
+        "text": "Multichannel & multiple client apps",
+        "items": [
+            "Web application", 
+            "Desktop client",
+            "Android app",
+            "iOS app",
+            "Rest API"
+        ]
+    }]
+}

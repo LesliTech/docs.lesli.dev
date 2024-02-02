@@ -1,0 +1,31 @@
+{
+    "description": "<b>Lesli</b> is a web platform designed to create highly scalable, secure and customizable software products.",
+    "link": "Scale your business, <i>with Us</i> and Our tools",
+    "components": [{
+        "icon": "",
+        "name": "Database",
+        "text": "PostgreSQL",
+        "items": [
+            "Relational design", 
+            "Versionable database"
+        ]
+    },{
+        "icon": "",
+        "name": "Backend",
+        "text": "Built-on top of Ruby and Ruby on Rails",
+        "items": [
+            "User management", 
+            "Roles & privileges"
+        ]
+    },{
+        "icon": "",
+        "name": "frontends",
+        "text": "Built-on top of Ruby and Ruby on Rails",
+        "items": [
+            "Web application", 
+            "Android",
+            "Desktop",
+            "iOS"
+        ]
+    }]
+}

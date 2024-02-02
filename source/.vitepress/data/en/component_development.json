@@ -1,0 +1,25 @@
+{
+    "title": "By developers for developers",
+    "text": "Lesli is built and maintained following high quality software development standards",
+    "content": [{
+        "icon": "ri-code-line",
+        "name": "Code Generation",
+        "text": "Rails scaffolds with vitamins."
+    },{
+        "icon": "ri-screenshot-fill",
+        "name": "UI Templates",
+        "text": "Just copy and paste the examples to quickly build a beautiful app."
+    },{
+        "icon": "ri-smartphone-line",
+        "name": "Responsive Design",
+        "text": "Our interfaces work perfectly on all devices."
+    },{
+        "icon": "ri-code-box-line",
+        "name": "Complete Test Coverage",
+        "text": "We implement a full suite of automated integration tests so there are no bugs in your software."
+    },{
+        "icon": "ri-refresh-line",
+        "name": "Software up to date",
+        "text": "We work with the latest versions of the tools."
+    }]
+}

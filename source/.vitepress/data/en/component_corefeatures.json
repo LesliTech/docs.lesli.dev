@@ -1,0 +1,45 @@
+{
+    "title": "Batteries are included",
+    "text": "Lesli comes with the features your software needs",
+    "content": [{
+        "icon": "ri-palette-line",
+        "name": "Theming",
+        "text": "Make staff feel at home by theming the Web App, Desktop Clients and Mobile Apps."
+    }, {
+        "icon": "ri-search-line",
+        "name": "Full text search",
+        "text": "Enable users to find their data quick and easy through global or local search."
+    }, {
+        "icon": "ri-link",
+        "name": "Public Link Sharing",
+        "text": "Share files and folders with outside contacts, protected by passwords and expiry dates."
+    }, {
+        "icon": "ri-file-shield-2-line",
+        "name": "Secure View",
+        "text": "Let users safely distribute confidential documents with maximum control."
+    }, {
+        "icon": "ri-terminal-box-line",
+        "name": "Commands",
+        "text": "A better way to interact with Lesli via chatbot, voice assistant or typing commands."
+    }, {
+        "icon": "ri-shield-user-line",
+        "name": "Advance role management",
+        "text": "Add two or more factors for login, such as passwords, one-time codes or magic links."
+    }, {
+        "icon": "ri-shield-keyhole-line",
+        "name": "Detailed privileges for users",
+        "text": "Add two or more factors for login, such as passwords, one-time codes or magic links."
+    }, {
+        "icon": "ri-passport-line",
+        "name": "Multi-Factor Authentication",
+        "text": "Add two or more factors for login, such as passwords, one-time codes or magic links."
+    }, {
+        "icon": "ri-file-paper-line",
+        "name": "System Auditing",
+        "text": "Log actions of users and admins for compliance and security."
+    }, {
+        "icon": "ri-global-line",
+        "name": "Multilanguage",
+        "text": "Available in any language needed."
+    }]
+}

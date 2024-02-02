@@ -1,0 +1,25 @@
+{
+    "name": "docs.lesli.dev",
+    "description": "Lesli - Official documentation",
+    "license": "GPLv3",
+    "version": "0.3.0",
+    "dependencies": {},
+    "devDependencies": {
+        
+        "lesli-css": "/Users/ldonis/code/Lesli/LesliBuilder/enginesdev/lesli-css/lesli-css-1.6.2.tgz",
+        "lesli-vue": "/Users/ldonis/code/Lesli/LesliBuilder/enginesdev/lesli-vue/lesli-vue-1.0.0.tgz",
+        
+        "sass": "1.69.6",
+        "bulma": "0.9.4",
+        "remixicon": "4.0.1",
+
+        "vitepress": "1.0.0-rc.34",
+        "vite-svg-loader": "5.1.0"
+    },
+    "scripts": {
+        "dev": "vitepress dev source",
+        "start": "vitepress dev source",
+        "build": "vitepress build source",
+        "preview": "vitepress preview source"
+    }    
+}

@@ -1,0 +1,176 @@
+{
+    "title": "We have a module for that",
+    "text": "Lesli provides carefully designed and developed modules ready to integrate, extend or start working with your daily work",
+    "content": [{
+        "name": "Administration",
+        "code": "administration",
+        "desc": "Manage all your administrative actions from a central location. Search for employees, payroll records, and documents.",
+        "modules": [{
+            "name": "Team",
+            "text": "Human Resources Management",
+            "desc": "Description about the module should be here",
+            "feat": []
+        }]
+    }, {
+        "name": "Sales & Marketing",
+        "code": "sales-marketing",
+        "desc": "Connect with customers using the right message, at the right time through the right channel using intelligent sales and marketing automation tools.",
+        "modules": [{
+            "name": "House",
+            "text": "Advance real estate management",
+            "desc": "Description about the module should be here",
+            "feat": []
+        },{
+            "name": "Mailer",
+            "text": "Email automation system",
+            "desc": "Description about the module should be here",
+            "feat": []
+        },{
+            "name": "Proposal",
+            "text": "Proposal and quotation management",
+            "desc": "Description about the module should be here",
+            "feat": []
+        }]
+    }, {
+        "name": "Productivity",
+        "code": "productivity",
+        "desc": "Plan your project activities, assign work, manage resources and collaborate with your team better to get things done on time.",
+        "modules": [{
+            "name": "Driver",
+            "text": "Unified calendar app",
+            "desc": "Description about the module should be here",
+            "feat": []
+        },{
+            "name": "Focus",
+            "text": "Task management",
+            "desc": "Description about the module should be here",
+            "feat": []
+        },{
+            "name": "Text",
+            "text": "Notes & Notebooks",
+            "desc": "Description about the module should be here",
+            "feat": []
+        },{
+            "name": "Bell",
+            "text": "Notification system",
+            "desc": "Description about the module should be here",
+            "feat": []
+        },{
+            "name": "Talk",
+            "text": "Team communication",
+            "desc": "Description about the module should be here",
+            "feat": []
+        }]
+    }, {
+        "name": "Finance",
+        "code": "finance",
+        "desc": "Improve the finance performance of your business with software that helps you manage your resourcers smarter and better.",
+        "modules": [{
+            "name": "Things",
+            "text": "Inventory management",
+            "desc": "Description about the module should be here",
+            "feat": []
+        }, {
+            "name": "Realty",
+            "text": "Real Estate Administration & Investment",
+            "desc": "Description about the module should be here",
+            "feat": []
+        }]
+    }, {
+        "name": "Analytics",
+        "code": "analytics",
+        "desc": "Deep insights that help you drive your business's growth with well-timed decisions.",
+        "modules": []
+    }, {
+        "name": "Intelligence",
+        "code": "intelligence",
+        "desc": "Connect devices to the cloud, analyze telemetry data, and manage your products at scale.",
+        "modules": []
+    }, {
+        "name": "IT & Help desk",
+        "code": "it-helpdesk",
+        "desc": "Reduce chaos and bring order to your support processes with a robust support ticket system, self-service knowledge base, forums and more.",
+        "modules": [{
+            "name": "Help",
+            "text": "Support ticket system",
+            "desc": "Description about the module should be here",
+            "feat": []
+        },{
+            "name": "Portal",
+            "text": "Client portal",
+            "desc": "Description about the module should be here",
+            "feat": []
+        }]
+    }, {
+        "name": "Security & Privacy",
+        "code": "security-privacy",
+        "desc": "Protect your data with an advanced administration panel and detailed access configuration for your users, guests or third-party apps.",
+        "modules": [{
+            "name": "Audit",
+            "text": "System log analytics",
+            "desc": "Description about the module should be here",
+            "feat": []
+        },{
+            "name": "Administration",
+            "text": "Core system settings",
+            "desc": "Description about the module should be here",
+            "feat": []
+        }]
+    }, {
+        "name": "Integrations",
+        "code": "integrations",
+        "desc": "Connect your apps, data, and workflows with third-party systems or build your custom applications using our advanced API.",
+        "modules": [{
+            "name": "Babel",
+            "text": "Translation management",
+            "desc": "Description about the module should be here",
+            "feat": []
+        },{
+            "name": "Development",
+            "text": "Cloud collaboration engine",
+            "desc": "Description about the module should be here",
+            "feat": []
+        },{
+            "name": "One",
+            "text": "Cloud Infrastructure Management",
+            "desc": "Description about the module should be here",
+            "feat": []
+        },{
+            "name": "Federation",
+            "text": "Cloud collaboration engine",
+            "desc": "Share files and folders with users of other clouds.",
+            "feat": []
+        },{
+            "name": "Dispatcher",
+            "text": "HTTP REST Web API",
+            "desc": "Description about the module should be here",
+            "feat": []
+        }]
+    }],
+    "extras": [{
+        "name": "Web",
+        "text": "Work in any common browser.",
+        "desc": ""
+    }, {
+        "name": "iOS",
+        "text": "Available on Apple App Store",
+        "desc": ""
+    }, {
+        "name": "Android",
+        "text": "Available on Google Play",
+        "desc": ""
+    }, {
+        "name": "Windows",
+        "text": "Proximamente...",
+        "desc": ""
+    }, {
+        "name": "Mac",
+        "text": "Proximamente...",
+        "desc": ""
+    }, {
+        "icon": "much-more",
+        "name": "Much more comming!",
+        "text": "",
+        "desc": ""
+    }]
+}
